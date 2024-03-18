@@ -1,0 +1,28 @@
+.cards{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.mainCard{
+    text-align: center;
+    margin-top: 140px;
+    border: 2px solid #fff;
+    width: 290px;
+    height: 400px;
+}
+img{
+    margin-top: 20px;
+    height: 250px;
+    border-radius: 200px;
+}
+.Namedetails{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Agedetails{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

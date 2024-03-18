@@ -1,0 +1,12 @@
+ul{
+    display: flex;
+    align-items: center;
+    gap: 34px;
+    cursor: pointer;
+    background-color: rgb(55, 55, 55);
+    padding-left: 20px;
+    height: 60px;
+}
+li{
+    list-style-type: none;
+}
